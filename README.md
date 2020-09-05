@@ -1,4 +1,4 @@
-# resturants
+# Resturant app
 
 A new Flutter application.
 
